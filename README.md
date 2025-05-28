@@ -1,3 +1,5 @@
+![Diabetes Chart](Diabetes_image.jpg)
+
 # Diabetes_Analysis
 INTRODUCTION:
 
